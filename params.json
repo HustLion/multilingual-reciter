@@ -1,0 +1,6 @@
+{
+  "name": "Multilingual-reciter",
+  "tagline": "Multilingual reciter to memorize tech stuff.",
+  "body": "# multilingual-reciter\r\nMultilingual reciter to memorize tech stuff.\r\n\r\n\r\n# First article\r\n\r\nFrom [org-mode](http://orgmode.org/ja/index.html)\r\n\r\nOrg-mode は、<abbr title=\"笔记，记录\">ノート</abbr>の保存、TODOリストの管理、プロジェクト計画のためのモードです。高速で効率的なプレーンテキストのシステムを使ってファイルを編集します。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
